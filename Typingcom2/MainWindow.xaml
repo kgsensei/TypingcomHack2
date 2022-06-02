@@ -25,7 +25,7 @@
                 Height="34" Width="200" FontSize="15"/>
         <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="10,276,0,0" TextWrapping="Wrap"
                 VerticalAlignment="Top" Height="254" Width="200" Name="informationalTextBlock">
-            This cheat takes control of your keyboard. Do NOT change tabs while in a NitroType race, it can break other programs.
+            This cheat takes control of your keyboard. Do NOT change tabs while in a Typing.com Session, it can break other programs.
             <LineBreak/><LineBreak/>
             Copyright © kgsensei 2022.<LineBreak/><LineBreak/>
             DISCLAIMER: I (kgsensei) will not take responsibility for any actions made with this tool or any consequences
