@@ -1,0 +1,6 @@
+.vs
+Output
+Typingcom2/bin/*
+Typingcom2/obj/*
+packages/*
+*.iss
