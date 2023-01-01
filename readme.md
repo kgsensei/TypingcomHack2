@@ -40,6 +40,6 @@ Example of Typing Accuracy Chart
 
 ## Legal
 
-This project & all associated code are copyright &copy; of kgsensei 2022.  
+This project & all associated code are copyright &copy; of kgsensei 2023 
 Do not steal others code, it is illegal and copyright violation.  
 I (kgsensei) am not responsible for any way that you or anyone else uses this tool.
